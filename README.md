@@ -33,7 +33,7 @@ Heart-Disease-Prediction/
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/Heart-Disease-Prediction.git
+   git clone https://github.com/sudhakargovindasamy/Heart-Disease-Prediction.git
    cd Heart-Disease-Prediction
    ```
 
@@ -85,5 +85,5 @@ Heart-Disease-Prediction/
 ---
 
 ## 👨‍💻 Author
-- Your Name  
-- [LinkedIn Profile](https://www.linkedin.com/) | [GitHub Profile](https://github.com/)
+- Sudhakar Govindasamy  
+- [LinkedIn Profile](www.linkedin.com/in/sudhakargovindasamy) | [GitHub Profile](https://github.com/sudhakargovindasamy)
